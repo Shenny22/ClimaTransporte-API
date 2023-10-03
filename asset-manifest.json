@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ClimaTransporte-API/static/css/main.cf2ab500.css",
-    "main.js": "/ClimaTransporte-API/static/js/main.5f7a8ec2.js",
+    "main.js": "/ClimaTransporte-API/static/js/main.a6f2e56a.js",
     "static/js/787.809eda40.chunk.js": "/ClimaTransporte-API/static/js/787.809eda40.chunk.js",
     "index.html": "/ClimaTransporte-API/index.html",
     "main.cf2ab500.css.map": "/ClimaTransporte-API/static/css/main.cf2ab500.css.map",
-    "main.5f7a8ec2.js.map": "/ClimaTransporte-API/static/js/main.5f7a8ec2.js.map",
+    "main.a6f2e56a.js.map": "/ClimaTransporte-API/static/js/main.a6f2e56a.js.map",
     "787.809eda40.chunk.js.map": "/ClimaTransporte-API/static/js/787.809eda40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf2ab500.css",
-    "static/js/main.5f7a8ec2.js"
+    "static/js/main.a6f2e56a.js"
   ]
 }
